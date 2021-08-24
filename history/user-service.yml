@@ -1,7 +1,7 @@
 url: https://dev.api.cargolink.co.th/api/v1/users/__alive__
 status: down
 code: 401
-responseTime: 1038
-lastUpdated: 2021-08-23T23:15:24.487Z
+responseTime: 1033
+lastUpdated: 2021-08-24T23:15:15.251Z
 startTime: Fri Jul 30 2021 06:30:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
